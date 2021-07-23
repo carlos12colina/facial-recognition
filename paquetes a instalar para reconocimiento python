@@ -1,0 +1,43 @@
+ejecucion principal: home.py 
+
+
+---requerimiento de hardware minimos---
+computador CPU: pentium 3.0 GHz, RAM: 4 gigas, DISCO DURO: 300 gigas
+
+instalar "python 3"
+
+instalar "pip 3"
+
+instalar "qt5"
+
+instalar "qt designer"
+
+instalar "opencv"
+
+instalar "face_recognition"
+
+instalar "screeninfo"
+
+instalar "easygui"
+
+instalar "cmake"
+
+instalar "imutils"
+
+
+----comandos para instalar paquetes dependiendo del sistema---
+1) sudo pip3 install PyQt5-tools 
+2) sudo apt install pyqt5-dev-tools
+2) sudo pip3 install imutils
+3) pip3 install opencv-contrib-python
+4) sudo apt install cmake
+5) pip3 install face_recognition
+6) pip install easygui
+7) pip install screeninfo
+
+
+pyuic5 register.ui -o register.py //para convertir vistas ui a python 
+pyuic5 -x main.ui -o ma.py // otra manera de para convertir vistas ui a python
+
+
+
